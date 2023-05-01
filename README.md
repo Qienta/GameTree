@@ -1,2 +1,2 @@
 # GameTree
-Graduate Mathayom 6 
+Graduate Mathayom 6 Project
